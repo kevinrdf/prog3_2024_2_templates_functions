@@ -1,7 +1,3 @@
-//
-// Created by rrivas on 12/09/2024.
-//
-
 #ifndef PROG3_2024_2_TEMPLATES_PUNTO_H
 #define PROG3_2024_2_TEMPLATES_PUNTO_H
 

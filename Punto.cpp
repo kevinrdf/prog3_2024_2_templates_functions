@@ -1,7 +1,3 @@
-//
-// Created by rrivas on 12/09/2024.
-//
-
 #include "Punto.h"
 
 int utec::Punto::get_x() {
